@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="Lame Joke Generator.."
+        android:textSize="36sp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:background="@color/colorAccent" />
+
+    <TextView
+        android:id="@+id/setup"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:gravity="fill"
+        android:padding="13dp"
+        android:textSize="20sp"
+        android:layout_weight="5"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@color/colorAccent"/>
+
+    <TextView
+        android:id="@+id/punchline"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:textAlignment="center"
+        android:padding="8dp"
+        android:textSize="18sp"
+        android:layout_weight="4"
+        android:background="@color/colorAccent"
+        android:gravity="center_horizontal" />
+
+    <ImageView
+        android:id="@+id/checker"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_weight="2"
+        android:background="@drawable/type"
+        android:scaleType="fitXY" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:backgroundTint="@color/colorAccent"
+        android:text="Touch here to begin..."
+        android:onClick="generate"/>
+
+</LinearLayout>

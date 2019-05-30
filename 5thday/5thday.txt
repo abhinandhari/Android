@@ -1,0 +1,10 @@
+learning about ACTIVITY LIFECYCLE
+Then the onsave and outstate
+Then views
+Then lists
+image in int
+there is something knowns as ArrayAdapter
+used to put in view
+similar to list
+listItemView = LayoutInflater.from(getContext()).inflate(R.layout.fruit_list, parent, false);
+ButterKnife for binding (RecyclerView)

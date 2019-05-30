@@ -1,0 +1,11 @@
+learned constructor chaining
+learning super - to get parent class methods
+git..remember
+if u use default, it is possible to define in interface..
+interface and abstract dont have body, cant be instantiated
+anonymous class has no main
+convert interface to class
+Learning lambda expression... - can only be used on functional interface
+function Interface has only one abstract method, but can have many non-abstract methods
+Fruit fruit = (parameters of the abstract method )-> {sysout("assdf")};
+NEVER ADD COMPILER FILES

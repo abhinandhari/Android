@@ -1,0 +1,19 @@
+There is also Integer.
+Similar to int, but it has null value, unlike int.
+We learning parsing "getting data of one type from another type
+Eg. parseInt();
+DONT FORGET ABOUT THE JAVADOCS!!!
+Learning Interface. Similar to abstract, but all are abstracts. And we use implements
+access modifiers - private,default,protected,public
+class default, interface public 
+default -> public is ok
+but public-> default no workie
+usually keep only one public static per class
+ArrayList - dynamic array
+Learning Stack - push, pop
+hashmap - it is a Collection
+There are many types of HashMaps
+HashMaps get order jumbled...
+LinkedHashMap prevents this.
+Collection is a class which allows u to store multiple objects
+Two assignments

@@ -1,0 +1,29 @@
+Today, we learning OOP
+First teaching example
+then car
+Constructor used in car
+compile multiple files with *
+function overloading marakkanda
+getters and setters
+for class
+made directory animal in 2nd day
+mad animal and animalDriver also
+extending lion now [ inheritance]
+learned overriding
+public String toString() -> no need to call as lion.print . Can directly be used.
+Now , about abstract classes
+After that, STATIC AND NON-STATIC
+STATIC -> will not be inherited
+Exceptions ... try and catch and finally
+you can throw it, but must be handled. throws Exception in function required to catch exceptions.
+U can use throw new to create CustomExceptions, which have to be imported
+There can be many catch blocks to catch multiple exceptions
+However, if u use Exception, catches all
+Assignment:
+For an event, given no. of students will be coming (n).
+Hint : Student[] students = new Students[n] // array of a class Student
+Input all the students - name,RollNo,Class,Age
+Store them in the array if the age is >= 18
+else throw an Exception(Custom)
+
+Atlast, print the ones having age >= 18 (i.e. the details in the array)

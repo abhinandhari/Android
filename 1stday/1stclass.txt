@@ -1,0 +1,30 @@
+java 1st
+camel casing followed - i.e AbhiHari
+also case sensitive
+extension - .java
+made HelloWorld.java
+made numbers.java
+first we check positive negative 0
+then type casting
+second, we doing switch case
+also usable in strings
+but switch is incompatible with float
+third, iteration statements
+println- next line
+print - same line
+scanner javadoc
+fourth, we learnt scanning (reading)
+import java.util.Scanner;
+Scanner scan = new Scanner(System.in);
+pinneeedu tskkkk
+just to get grip on scans
+Now, onto scanning files
+Search for constructor in that site
+Scanner (Path source)
+and then
+import java.io.File
+You must 1) FilerReader file = null;
+2)use try {
+file = new FileReader ("asdasd.txt")
+and }catch(Exception e){}
+

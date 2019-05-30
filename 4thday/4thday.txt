@@ -1,0 +1,12 @@
+Learning Generics
+Helps store varying datatype in class
+Check Sample and Example
+Started Android Studio
+there is xml and java
+wrap_content and match_parent
+LAYOUTS!!
+There are also a lot of attributes
+weight, text, layout, gravity....
+also check the documentation - View in android
+findViewById
+ALT+ENTER IS LIFESAVER> NEVER FORGET

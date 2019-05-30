@@ -1,0 +1,4 @@
+learning JSON, pretty printing..
+ctrl+i also never forget
+add permissions
+retrofit, gson or glide - retrofit and gson is best
