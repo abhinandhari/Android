@@ -9,3 +9,6 @@ Learning lambda expression... - can only be used on functional interface
 function Interface has only one abstract method, but can have many non-abstract methods
 Fruit fruit = (parameters of the abstract method )-> {sysout("assdf")};
 NEVER ADD COMPILER FILES
+dart
+file naming -> hello_world .[All lower case]
+variables follow camel casing just like in java
