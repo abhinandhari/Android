@@ -1,3 +1,4 @@
+<script src="https://gist.github.com/PurpleBooth/109311bb0361f32d87a2.js">
 ###3rdDay
 -Learned that there are a few classes like Integer, derived from datatypes like int.
 -Also learned the meaning of parsing
@@ -10,3 +11,4 @@
 -Learned Dynamic memory allocation with ArrayList and HashMap.
   -Difference between HashMap and LinkedHashMap also noted.
 -Assignments were given and done.
+</script>
