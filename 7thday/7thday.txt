@@ -12,3 +12,7 @@ NEVER ADD COMPILER FILES
 dart
 file naming -> hello_world .[All lower case]
 variables follow camel casing just like in java
+dart is not class dependent, but is like java
+private is by adding unerscore (_)
+name and unnamed constructer
+Then , factory keyword
