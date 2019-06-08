@@ -1,8 +1,8 @@
 
 
-#So
+# So
 
-#First day
+# First day
 -We were introduced to Java, and the methods it follows
 -This follows OOP, due to which everything is defined as a class
 -Files end with .java
