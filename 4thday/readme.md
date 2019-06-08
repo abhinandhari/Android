@@ -4,4 +4,4 @@ Today we learned about
   -We understood that one needs to have a base in Java and xml.
   -Layouts[The front end] were done in xml, using proper tags and attributes.
   -The back-end part was done with Java
-  -Alt +Enter is never to be forgotten.
+  -Alt +Enter and the android documentation is never to be forgotten.
